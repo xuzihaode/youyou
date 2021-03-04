@@ -22,5 +22,5 @@ def test_qq2():
 
     #断言
     assert error_code == expect_resul['error_code']
-    assert reason == expect_resul['reason']
+    assert reason == expect_resul['reaso_n']
 
